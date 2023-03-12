@@ -22,6 +22,8 @@
   * CSS
   * JS
   * Angular
+  * NestJs
+  * React.js
   * Typscript
 * 🗃️ Git
 * 🎨 Photoshop  
