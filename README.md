@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sabaapxazava
+- 👋 Hi, I’m sabaapxazava Front-end Developer
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Web Dev
-- 📫 sabaapxazava@gmail.com
+- 🌱 I’m currently learning Back-end Development
+- 📫 sabaapxazava@gmail.com | https://sabaapkhazava.ge
 
 
 # contact me:
