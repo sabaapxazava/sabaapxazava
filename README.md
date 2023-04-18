@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Back-end Development
 - 📫 sabaapxazava@gmail.com | https://sabaapkhazava.ge
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabaapxazava&label=Profile%20views&color=0e75b6&style=flat" alt="sabaapxazava" /> </p>
 
 
 # contact me:
@@ -18,7 +19,8 @@
 
 <br><br>
 # stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabaapxazava&show_icons=true&theme=radical) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaapxazava&show_icons=true&locale=en&layout=compact" alt="sabaapxazava" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabaapxazava&show_icons=true&locale=en" alt="sabaapxazava" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabaapxazava&&hide=Pawn&%20notebook&show=vue&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabaapxazava&" alt="sabaapxazava" /></p>
