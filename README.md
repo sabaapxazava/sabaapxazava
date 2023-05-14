@@ -29,9 +29,6 @@
 <div>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabaapxazava&theme=dark" alt="sabaapxazava" /></p>
 </div>
-<div>
-   <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=sabaapxazava&limit=5&theme=dark&combine_all_yearly_contributions=true)" alt="sabaapxazava" /></p>
-</div>
   
 </div>
 
