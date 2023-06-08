@@ -19,16 +19,6 @@
 
 <br><br>
 # stats
-<div style="display:flex; justify-content: center; width:100%;">
-<div>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaapxazava&show_icons=true&locale=en&layout=compact&theme=dark" alt="sabaapxazava" /></p>
-</div>
-<div>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabaapxazava&show_icons=true&locale=en&theme=dark" alt="sabaapxazava" /></p>
-</div>
-<div>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabaapxazava&theme=dark" alt="sabaapxazava" /></p>
-</div>
-  
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaapxazava&show_icons=true&locale=en&layout=compact&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabaapxazava&theme=dark" /></a> |
+| ------------- | ------------- |
 
