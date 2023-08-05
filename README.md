@@ -11,7 +11,7 @@ let me = {
    markup: ["HTML", "CSS", "SCSS", "Less", "SASS"],
    web: ["Angular", "React", "NestJs", "Express"],
    tools: ["Docker", "NGINX", "Figma", "Apache"],
-   databases: ["SQL", "Cassandra", "MongoDB"],
+   databases: ["SQL", "Cassandra", "MongoDB", "MYSQL"],
    cloud: ["GoogleCloud", "DigitalOcean"], 
 } 
 ```
