@@ -24,4 +24,7 @@ let me = {
 # My Statistics
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaapxazava&show_icons=true&locale=en&layout=compact&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabaapxazava&theme=dark" /></a> |
 | ----------------- | ----------------- |
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabaapxazava&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
