@@ -7,7 +7,7 @@
 ```js
 let me = {
    name: "Saba Apkhazava", 
-   code: ["Javascript", "TypeScript", "Python", "Matlab"],
+   code: ["Javascript", "TypeScript", "Python", "GO", "Matlab"],
    markup: ["HTML", "CSS", "SCSS", "Less", "SASS"],
    web: ["Angular", "React", "NestJs", "Express"],
    tools: ["Docker", "NGINX", "Figma", "Apache"],
