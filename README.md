@@ -119,7 +119,6 @@ let me = {
 | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabaapxazava&show_icons=true&locale=en&layout=compact&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabaapxazava&theme=dark" /></a> |
 | ----------------- | ----------------- |
 <br>
-<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabaapxazava&theme=2077" />
 <br>
 
 <div align="center">
